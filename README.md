@@ -10,7 +10,7 @@ The project was developed in a start up spirit to be low cost, and fast. It aims
 
 All the source code is open source and can be found on the github of onepointsecurity:
 - [Object source code](https://github.com/onepointsecurity/VulnerableDoor-Embedded)
-- [Companion Android App] (https://github.com/onepointsecurity/VulnerableDoor-Android)
+- [Companion Android App](https://github.com/onepointsecurity/VulnerableDoor-Android)
 
 An [exploit script](https://github.com/onepointsecurity/VulnerableDoor-Exploit) is also available.
 
